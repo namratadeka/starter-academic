@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Hello! I am a master's student at UBC, Vancouver working on causal learning for computer vision applications under the supervision of Dr. Dougal Sutherland.
+Hello! I am a master's student at UBC, Vancouver working on causal learning for computer vision applications under the supervision of [Dr. Dougal Sutherland](https://djsutherland.ml/).
 
-Before joining UBC, I was a research fellow at Wadhwani AI where I helped develop a visual weighing machine to detect low birth-weight babies in rural India. I am also interested in working towards wildlife conservation and sustainable development for climate change solutions. If you have any interesting ideas on how machine learning can be helpful here, do reach out! :)
+Before joining UBC, I was a research fellow at [Wadhwani AI](https://www.wadhwaniai.org/) where I helped develop a visual weighing machine to detect low birth-weight babies in rural India. I am also interested in working towards wildlife conservation and sustainable development for climate change solutions. If you have any interesting ideas on how machine learning can be helpful here, do reach out! :)
