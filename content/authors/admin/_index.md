@@ -33,7 +33,7 @@ education:
   - course: MSc in Computer Science
     institution: The University of British Columbia, Vancouver
     year: 2022
-  - course: BTech in Computer Science
+  - course: BTech in Computer Science & Engineering
     institution: Indraprastha Institute of Information Technology, New Delhi (IIITD)
     year: 2017
 
