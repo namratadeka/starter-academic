@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: CS Graduate student at UBC, Vancouver
+role: Graduate student
 
 # Organizations/Affiliations
 organizations:
