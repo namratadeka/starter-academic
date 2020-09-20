@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Namrata Deka
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: CS Graduate student at UBC, Vancouver
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: The University of British Columbia
+  url: "https://www.ubc.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include causality, computer vision and reinforcement learning.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+- Causal Modelling
+- Computer Vision
+- Reinforcement Learning
+- Wildlife Conservation
+- Climate Change
+- Sustainable Development
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Computer Science
+    institution: The University of British Columbia
+    year: 2022
+  - course: BTech in Computer Science
+    institution: Indraprastha Institute of Information Technology, New Delhi (IIITD)
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +44,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:dnamrata@cs.ubc.ca'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/Namratadeka
+# - icon: google-scholar
+#  icon_pack: ai
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/namratadeka
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
