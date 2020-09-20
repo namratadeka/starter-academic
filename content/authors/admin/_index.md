@@ -31,7 +31,7 @@ interests:
 education:
   courses:
   - course: MSc in Computer Science
-    institution: The University of British Columbia
+    institution: The University of British Columbia, Vancouver
     year: 2022
   - course: BTech in Computer Science
     institution: Indraprastha Institute of Information Technology, New Delhi (IIITD)
@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hello! I am a master's student at UBC, Vancouver working on causal learning for computer vision applications under the supervision of Dr. Dougal Sutherland.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Before joining UBC, I was a research fellow at Wadhwani AI where I helped develop a visual weighing machine to detect low birth-weight babies in rural India. I am also interested in working towards wildlife conservation and sustainable development for climate change solutions. If you have any interesting ideas on how machine learning can be helpful here, do reach out! :)
