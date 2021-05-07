@@ -17,14 +17,35 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Graduate Research Assistant"
+  company = "University of British Columbia"
+  company_url = "https://www.ubc.ca/"
+  location = "Vancouver, BC"
+  date_start = "2021-05-03"
+  date_end = """
+  description = "Kernel-based fair and invariant representation learning for images."
+  """
+
+[[experience]]
+  title = "Graduate Teaching Assistant"
+  company = "University of British Columbia"
+  company_url = "https://www.ubc.ca/"
+  location = "Vancouver, BC"
+  date_start = "2021-01-11"
+  date_end = "2021-04-30"
+  description = "CPSC 422: Intelligent Systems"
+  """
+
 [[experience]]
   title = "Graduate Research Assistant"
   company = "University of British Columbia"
   company_url = "https://www.ubc.ca/"
   location = "Vancouver, BC"
   date_start = "2020-09-01"
-  date_end = ""
-  description = """
+  date_end = "2020-12-04"
+  description = "Learning deep kernels for conditional two-sample testing."
   """
 
 [[experience]]
