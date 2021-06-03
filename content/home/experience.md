@@ -17,16 +17,23 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]]
+  title = "Summer@EPFL Fellow"
+  company = "Visual Intelligence and Learning Lab (VILAB), EPFL"
+  company_url = "https://vilab.epfl.ch/"
+  location = "Lausanne, Switzerland"
+  data_start = "2021-06-01"
+  date_end = ""
+  description = ""
 
 [[experience]]
   title = "Graduate Research Assistant"
   company = "University of British Columbia"
   company_url = "https://www.ubc.ca/"
   location = "Vancouver, BC"
-  date_start = "2021-05-03"
-  date_end = """
-  description = "Kernel-based fair and invariant representation learning for images."
-  """
+  date_start = "2020-09-01"
+  date_end = ""
+  description = "Kernel-methods for conditional two-sample testing of learnt image representations."
 
 [[experience]]
   title = "Graduate Teaching Assistant"
@@ -35,18 +42,7 @@ date_format = "Jan 2006"
   location = "Vancouver, BC"
   date_start = "2021-01-11"
   date_end = "2021-04-30"
-  description = "CPSC 422: Intelligent Systems"
-  """
-
-[[experience]]
-  title = "Graduate Research Assistant"
-  company = "University of British Columbia"
-  company_url = "https://www.ubc.ca/"
-  location = "Vancouver, BC"
-  date_start = "2020-09-01"
-  date_end = "2020-12-04"
-  description = "Learning deep kernels for conditional two-sample testing."
-  """
+  description = "CPSE 422: Intelligent Systems"
 
 [[experience]]
   title = "Research Fellow"
