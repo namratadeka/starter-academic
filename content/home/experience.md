@@ -23,8 +23,8 @@ date_format = "Jan 2006"
   company_url = "https://vilab.epfl.ch/"
   location = "Lausanne, Switzerland"
   data_start = "2021-06-01"
-  date_end = ""
-  description = ""
+  date_end = "2021-08-27"
+  description = "Sparse representation learning of articulated objects from optical flow."
 
 [[experience]]
   title = "Graduate Research Assistant"
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   location = "Vancouver, BC"
   date_start = "2020-09-01"
   date_end = ""
-  description = "Kernel-methods for conditional two-sample testing of learnt image representations."
+  description = "Deep kernel-methods for representation learning."
 
 [[experience]]
   title = "Graduate Teaching Assistant"
@@ -51,8 +51,7 @@ date_format = "Jan 2006"
   location = "Mumbai"
   date_start = "2018-08-27"
   date_end = "2020-08-07"
-  description = """
-  """
+  description = "AI for Social Good: Screening low birth-weight babies in rural India using 3D vision."
 
 [[experience]]
   title = "Research Intern"
@@ -61,6 +60,6 @@ date_format = "Jan 2006"
   location = "Bengaluru"
   date_start = "2018-01-08"
   date_end = "2018-07-31"
-  description = """
-  """
+  description = "Classification of higly imabalanced massive datasets."
+
 +++

@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Hello! I am a master's student at UBC, Vancouver working on kernel-based representation learning for computer vision applications under the supervision of [Dr. D.J. Sutherland](https://djsutherland.ml/).
+Hello! I am a master's student at UBC, Vancouver working on deep kernel-based representation learning for computer vision applications under the supervision of [Dr. D.J. Sutherland](https://djsutherland.ml/). I am also working with [Dr. Amir Zamir](https://vilab.epfl.ch/zamir/) in the [Visual Intelligence and Learning Lab](https://vilab.epfl.ch/) at EPFL on learning sparse representations of articulated objects from videos and optical flow to create robotic object models.
 
-Before joining UBC, I was a research fellow at [Wadhwani AI](https://www.wadhwaniai.org/) where I helped develop a visual weighing machine to detect low birth-weight babies in rural India. I am also interested in working towards wildlife conservation and sustainable development for climate change solutions.
+Prior to starting grad school, I was a research fellow at [Wadhwani AI](https://www.wadhwaniai.org/) for two years where I was involved in the research and development of an AI-powered visual screening tool to detect low birth-weight (<2.5kg) babies in rural India where primary healthcare is inadequate. I have also interned at Microsot Research India's Applied Sciences group on prototyping machine learning techniques to identify highly imbalanced P.I.I. attributes from massive customer databases for the EU GDPR mandate.
