@@ -26,14 +26,12 @@ interests:
 - Computer Vision
 - Reinforcement Learning
 - Wildlife Conservation
-- Climate Change
-- Sustainable Development
 education:
   courses:
-  - course: MSc in Computer Science
+  - course: MSc. in Computer Science
     institution: The University of British Columbia, Vancouver
     year: 2022
-  - course: BTech (Hons) in Computer Science & Engineering
+  - course: BTech. (Hons) in Computer Science & Engineering
     institution: Indraprastha Institute of Information Technology, New Delhi (IIITD)
     year: 2017
 
