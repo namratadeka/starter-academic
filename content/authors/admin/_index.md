@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate student
+role: MSc. Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -18,19 +18,18 @@ organizations:
   url: "https://www.ubc.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include causality, computer vision and reinforcement learning.
+bio: My research interests include machine learning, causality and computer vision.
 
 interests:
 - Artificial Intelligence
 - Causal Modelling
 - Computer Vision
-- Reinforcement Learning
 - Wildlife Conservation
 education:
   courses:
   - course: MSc. in Computer Science
     institution: The University of British Columbia, Vancouver
-    year: 2022
+    year: 2023
   - course: BTech. (Hons) in Computer Science & Engineering
     institution: Indraprastha Institute of Information Technology, New Delhi (IIITD)
     year: 2017
@@ -54,9 +53,9 @@ social:
   link: https://github.com/namratadeka
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -68,6 +67,8 @@ user_groups:
 - Visitors
 ---
 
-Hello! I am a master's student at UBC, Vancouver working on deep kernel-based representation learning for computer vision applications under the supervision of [Dr. D.J. Sutherland](https://djsutherland.ml/). I am also working with [Dr. Amir Zamir](https://vilab.epfl.ch/zamir/) in the [Visual Intelligence and Learning Lab](https://vilab.epfl.ch/) at EPFL on learning sparse representations of articulated objects from videos and optical flow to create robotic object models.
+Hello! I am a master’s student at UBC, Vancouver working on causal and fair representation learning using statistical kernel-based measures under the supervision of [Dr. D.J. Sutherland](https://djsutherland.ml/) while also collaborating with [Dr. Arthur Gretton](https://www.gatsby.ucl.ac.uk/~gretton/) from the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/) at [UCL](https://www.ucl.ac.uk/).
+
+I am also a machine learning research intern at [Borealis AI](https://www.borealisai.com/) and have previously interned with [Dr. Amir Zamir](https://vilab.epfl.ch/zamir/) in the [Visual Intelligence and Learning Lab](https://vilab.epfl.ch/) at [EPFL](https://www.epfl.ch/en/) where I worked on learning sparse representations of articulated objects from videos and optical flow to create robotic object models.
 
 Prior to starting grad school, I was a research fellow at [Wadhwani AI](https://www.wadhwaniai.org/) for two years where I was involved in the research and development of an AI-powered visual screening tool to detect low birth-weight (<2.5kg) babies in rural India where primary healthcare is inadequate. I have also interned at Microsot Research India's Applied Sciences group on prototyping machine learning techniques to identify highly imbalanced P.I.I. attributes from massive customer databases for the EU GDPR mandate.

@@ -18,11 +18,20 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
+  title = "Machine Learning Research Intern"
+  company = "Borealis AI"
+  company_url = "https://www.borealisai.com/"
+  location = "Vancouver, Canada"
+  date_start = "2022-09-06"
+  date_end = ""
+  description = "Automated discovery of systematic errors in under-represented groups."
+
+[[experience]]
   title = "Summer@EPFL Fellow"
   company = "Visual Intelligence and Learning Lab (VILAB), EPFL"
   company_url = "https://vilab.epfl.ch/"
   location = "Lausanne, Switzerland"
-  data_start = "2021-06-01"
+  date_start = "2021-06-01"
   date_end = "2021-08-27"
   description = "Sparse representation learning of articulated objects from optical flow."
 
@@ -34,15 +43,6 @@ date_format = "Jan 2006"
   date_start = "2020-09-01"
   date_end = ""
   description = "Deep kernel-methods for representation learning."
-
-[[experience]]
-  title = "Graduate Teaching Assistant"
-  company = "University of British Columbia"
-  company_url = "https://www.ubc.ca/"
-  location = "Vancouver, BC"
-  date_start = "2021-01-11"
-  date_end = "2021-04-30"
-  description = "CPSE 422: Intelligent Systems"
 
 [[experience]]
   title = "Research Fellow"
