@@ -4,7 +4,7 @@ title: "MMD-B-Fair: Learning Fair Representations with Statistical Testing"
 # - admin
 # - Danica J. Sutherland
 date: "2022-11-15T14:00:00Z"
-doi: ""
+# doi: "https://doi.org/10.48550/arXiv.2211.07907"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-11-01T00:00:00Z"
@@ -29,9 +29,9 @@ tags:
 featured: false
 
 links:
-# - name: Custom Link
-#   url: http://example.org
-# url_pdf: http://arxiv.org/pdf/1512.04133v1
+- name: arXiv
+  url: https://arxiv.org/abs/2211.07907
+url_pdf: https://arxiv.org/pdf/2211.07907.pdf
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: '#'
 # url_poster: '#'

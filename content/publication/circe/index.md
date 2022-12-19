@@ -29,10 +29,10 @@ tags:
 featured: false
 
 links:
-# - name: Custom Link
-#   url: http://example.org
-url_pdf: https://openreview.net/pdf?id=dJruFeSRym1
-# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+- name: OpenReview
+  url: https://openreview.net/forum?id=dJruFeSRym1
+url_pdf: https://arxiv.org/pdf/2212.08645v1.pdf
+url_code: https://github.com/namratadeka/circe
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
