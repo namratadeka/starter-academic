@@ -35,7 +35,9 @@ featured: false
 links:
 - name: OpenReview
   url: https://openreview.net/forum?id=dJruFeSRym1
-url_pdf: https://arxiv.org/pdf/2212.08645v1.pdf
+- name: arXiv
+  url: https://arxiv.org/abs/2212.08645
+# url_pdf: https://arxiv.org/pdf/2212.08645v1.pdf
 url_code: https://github.com/namratadeka/circe
 # url_dataset: '#'
 # url_poster: '#'
