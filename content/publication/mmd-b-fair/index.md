@@ -32,7 +32,7 @@ links:
 - name: arXiv
   url: https://arxiv.org/abs/2211.07907
 # url_pdf: https://arxiv.org/pdf/2211.07907.pdf
-# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_code: https://github.com/namratadeka/mmd-b-fair
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''

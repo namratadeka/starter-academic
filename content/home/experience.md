@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company_url = "https://www.borealisai.com/"
   location = "Vancouver, Canada"
   date_start = "2022-09-06"
-  date_end = ""
+  date_end = "2023-01-27"
   description = "Automated discovery of systematic errors in under-represented groups."
 
 [[experience]]
@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   company_url = "https://www.ubc.ca/"
   location = "Vancouver, BC"
   date_start = "2020-09-01"
-  date_end = ""
+  date_end = "2023-04-27"
   description = "Deep kernel-methods for representation learning."
 
 [[experience]]
