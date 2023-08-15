@@ -22,14 +22,14 @@ bio: My research interests include machine learning, causality and computer visi
 
 interests:
 - Artificial Intelligence
-- Causal Modelling
+- Causal Learning
 - Computer Vision
 - Wildlife Conservation
 education:
   courses:
-  - course: Ph.D. in Machine Learning, Upcoming
+  - course: Ph.D. in Machine Learning
     institution: Carnegie Mellon University, Pittsburgh
-    year:  
+    year: Ongoing
   - course: MSc. in Computer Science
     institution: The University of British Columbia, Vancouver
     year: 2023
@@ -73,10 +73,7 @@ user_groups:
 - Visitors
 ---
 
-I am an incoming Ph.D. student in the [Machine Learning Department](https://www.ml.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I am interested in causal representation learning particularly for learning from high-dimensional and unstructured data like images and text. I obtained my master’s from the [University of British Columbia](https://www.ubc.ca/) where I worked on invariant and fair representation learning using kernel-based measures, advised by [Dr. Danica J. Sutherland](https://djsutherland.ml/). 
+I am a Ph.D. student in the [Machine Learning Department](https://www.ml.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/). I am interested in causal representation learning particularly for learning from high-dimensional and unstructured data like images and text. I obtained my master’s from the [University of British Columbia](https://www.ubc.ca/) where I worked on invariant and fair representation learning using kernel-based measures, advised by [Dr. Danica J. Sutherland](https://djsutherland.ml/). 
 
-<!-- I also actively collaborate with [Dr. Arthur Gretton](https://www.gatsby.ucl.ac.uk/~gretton/) from the [Gatsby Computational Neuroscience Unit](https://www.ucl.ac.uk/gatsby/) at [UCL](https://www.ucl.ac.uk/). -->
-
-I have held machine learning research intern positions at [Borealis AI](https://www.borealisai.com/), the [Visual Intelligence and Learning Lab](https://vilab.epfl.ch/) at [EPFL](https://www.epfl.ch/en/) and the Applied Sciences group at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/).
-
-I also have full-time applied research experience as a research fellow at [Wadhwani AI](https://www.wadhwaniai.org/) where I was involved in the development of an AI-powered visual screening tool to detect low birth-weight (<2.5kg) babies in rural India where primary healthcare is inadequate.
+I have held machine learning research intern positions at [Borealis AI](https://www.borealisai.com/), the [Visual Intelligence and Learning Lab](https://vilab.epfl.ch/) at [EPFL](https://www.epfl.ch/en/) and the Applied Sciences group at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/). I also have full-time experience as a research fellow at [Wadhwani AI](https://www.wadhwaniai.org/).
+ <!-- where I was involved in the development of an AI-powered visual screening tool to detect low birth-weight (<2.5kg) babies in rural India where primary healthcare is inadequate. -->
