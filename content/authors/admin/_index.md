@@ -18,12 +18,13 @@ organizations:
   url: "https://www.cmu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, causality and computer vision.
+bio: My research interests include machine learning, causality, computer vision and reinforcement learning.
 
 interests:
 - Artificial Intelligence
 - Causal Learning
 - Computer Vision
+- Reinforcement Learning
 - Wildlife Conservation
 education:
   courses:
