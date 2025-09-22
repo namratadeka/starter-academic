@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Roman Pogodin
+title: Yifan Shen
 
 # Username (this should match the folder name)
 authors:
-- roman_pogodin
+- yifan_shen
 
 social:
 - icon: house-user
   icon_pack: fas
-  link: https://roman-pogodin.com/
+  link: https://sanshuiii.github.io/about/
 
 ---
