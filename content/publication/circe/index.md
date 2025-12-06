@@ -40,7 +40,7 @@ links:
 # url_pdf: https://arxiv.org/pdf/2212.08645v1.pdf
 url_code: https://github.com/namratadeka/circe
 # url_dataset: '#'
-# url_poster: '#'
+url_poster: 'publication/circe/poster.png'
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
@@ -49,7 +49,7 @@ url_code: https://github.com/namratadeka/circe
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Presented at ICLR 2023.'
   focal_point: ""
   preview_only: false
 

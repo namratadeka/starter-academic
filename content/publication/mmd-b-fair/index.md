@@ -34,7 +34,7 @@ links:
 # url_pdf: https://arxiv.org/pdf/2211.07907.pdf
 url_code: https://github.com/namratadeka/mmd-b-fair
 # url_dataset: '#'
-# url_poster: '#'
+url_poster: 'publication/mmd-b-fair/poster.png'
 # url_project: ''
 # url_slides: ''
 # url_source: '#'
@@ -43,7 +43,7 @@ url_code: https://github.com/namratadeka/mmd-b-fair
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: 'Presented at AISTATS 2023.'
   focal_point: ""
   preview_only: false
 
