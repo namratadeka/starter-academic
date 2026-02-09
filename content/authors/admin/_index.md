@@ -18,14 +18,13 @@ organizations:
   url: "https://www.cmu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, causality, computer vision and reinforcement learning.
+bio: My research interests include representation learning, reinforcement learning and robust multimodal planning.
 
 interests:
 - Artificial Intelligence
-- Causal Learning
-- Computer Vision
+- Representation Learning
 - Reinforcement Learning
-- Wildlife Conservation
+- Multimodal Planning
 education:
   courses:
   - course: Ph.D. in Machine Learning
@@ -74,7 +73,7 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. student in the [Machine Learning Department](https://www.ml.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) advised by [Dr. Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/) and [Dr. Jeff Schneider](https://www.cs.cmu.edu/~schneide/). My current research focus is on developing theory and algorithms to learn causal representations for reinforcement learning, generative modelling, video understanding and robustness in deep learning. I have a M.Sc. in Computer Science from the [University of British Columbia](https://www.ubc.ca/) where I worked on invariant and fair representation learning using kernel-based measures, advised by [Dr. Danica J. Sutherland](https://djsutherland.ml/).
+I am a Ph.D. student in the [Machine Learning Department](https://www.ml.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/) advised by [Dr. Jeff Schneider](https://www.cs.cmu.edu/~schneide/) and [Dr. Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/). My current research focus is on developing theory and methods to learn aligned concept representations for multimodal planning, generative modelling, reinforcement learning and general efficieny and robustness in deep learning systems. I have a M.Sc. in Computer Science from the [University of British Columbia](https://www.ubc.ca/) where I worked on invariant and fair representation learning using kernel-based measures, advised by [Dr. Danica J. Sutherland](https://djsutherland.ml/).
 
 I have held machine learning research intern positions at [Borealis AI](https://www.borealisai.com/), the [Visual Intelligence and Learning Lab](https://vilab.epfl.ch/) at [EPFL](https://www.epfl.ch/en/) and the Applied Sciences group at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/). I also have full-time experience as a research fellow at [Wadhwani AI](https://www.wadhwaniai.org/).
  <!-- where I was involved in the development of an AI-powered visual screening tool to detect low birth-weight (<2.5kg) babies in rural India where primary healthcare is inadequate. -->
